@@ -1,6 +1,5 @@
 {
   "name": "@nod/eslint-config-nod",
-  "private": true,
   "version": "2.0.1",
   "description": "Common eslint rules",
   "main": "./index.js",
