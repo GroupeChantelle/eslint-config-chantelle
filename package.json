@@ -1,15 +1,15 @@
 {
   "name": "@nod/eslint-config-nod",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "description": "Common eslint rules",
   "main": "src/index.js",
   "sideEffects": false,
   "license": "Apache-2.0",
   "dependencies": {
-    "@nod/eslint-plugin-nod": "^4.0.0"
+    "@nod/eslint-plugin-nod": "^4.0.1"
   },
   "devDependencies": {
-    "@nod/eslint-config-nod-commonjs": "^4.0.0"
+    "@nod/eslint-config-nod-commonjs": "^4.0.1"
   },
   "files": [
     "src"
