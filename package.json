@@ -1,16 +1,19 @@
 {
   "name": "@nod/eslint-config-nod",
-  "version": "3.0.1",
+  "version": "3.0.2-0",
   "description": "Common eslint rules",
-  "main": "./index.js",
+  "main": "src/index.js",
   "sideEffects": false,
   "license": "Apache-2.0",
   "dependencies": {
-    "@nod/eslint-plugin-nod": "^3.0.1"
+    "@nod/eslint-plugin-nod": "^3.0.2-0"
   },
   "devDependencies": {
-    "@nod/eslint-config-nod-commonjs": "^3.0.1"
+    "@nod/eslint-config-nod-commonjs": "^3.0.2-0"
   },
+  "files": [
+    "src"
+  ],
   "peerDependencies": {
     "babel-eslint": "^8.2.6",
     "eslint": "^5.0.1",
