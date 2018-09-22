@@ -9,7 +9,7 @@
     "@nod/eslint-plugin-nod": "^4.0.2"
   },
   "devDependencies": {
-    "@nod/eslint-config-nod-commonjs": "^4.0.2"
+    "@nod/eslint-config-commonjs": "^4.0.2"
   },
   "files": [
     "src"
@@ -34,7 +34,7 @@
   },
   "eslintConfig": {
     "extends": [
-      "@nod/eslint-config-nod-commonjs"
+      "@nod/eslint-config-commonjs"
     ]
   },
   "repository": {
